@@ -1,0 +1,11 @@
+---
+---
+{% assign isFirst = true %}
+[ {% for item in site.static_files %}{% if item.name contains '.jdex' %}
+  {% if isFirst != true %},{% endif %}{% assign isFirst = false %}
+  {
+    "name": "{{ item.basename }}",
+    "modtime": "{{ item.modified_time }}",
+    "path": "{{ item.path | uri_escape }}"    
+  }{% endif %}{% endfor %}
+}

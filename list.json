@@ -8,4 +8,4 @@
     "modtime": "{{ item.modified_time }}",
     "path": "{{ item.path | uri_escape }}"    
   }{% endif %}{% endfor %}
-}
+]

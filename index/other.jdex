@@ -1,81 +1,64 @@
 [
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/myaoroom",
-    "showroom_id": "58834",
+    "room_id": "58834",
     "jpnName": "みゃおの部屋",
     "engName": "MyaoRoom",
     "priority": 20
   },
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/usj48_yarisugisummer",
-    "showroom_id": "67666",
+    "room_id": "67666",
     "jpnName": "やり過ぎ！サマーSPECIAL",
     "engName": "USJ48 YariSugi Summer",
     "priority": 20
   },
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/maji2016",
-    "showroom_id": "67940",
+    "room_id": "67940",
     "jpnName": "～立ち上がるマジ女たち～",
     "engName": "Majisuka Gakuen Musical",
     "priority": 20
   },
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/crows_blood",
-    "showroom_id": "68872",
+    "room_id": "68872",
     "jpnName": "CROW’S BLOOD鑑賞",
     "engName": "CROW’S BLOOD Reactions",
     "priority": 20
   },
-  {
-    "jpnTeam": "",
-    "engTeam": "Other",
-    "web_url": "https://www.showroom-live.com/nmb48_official",
-    "showroom_id": "69404",
-    "jpnName": "Official Showroom",
-    "engName": "NMB48 Official Showroom",
-    "priority": 20
-  },
-  {
-    "jpnTeam": "",
-    "engTeam": "Other",
-    "web_url": "https://www.showroom-live.com/akb48_official",
-    "showroom_id": "70088",
-    "jpnName": "Official Showroom",
-    "engName": "AKB48 Official Showroom",
-    "priority": 20
-  },
+
   {
     "jpnTeam": "ラジオ",
     "engTeam": "Radio",
     "web_url": "https://www.showroom-live.com/on8",
-    "showroom_id": "64547",
+    "room_id": "64547",
     "jpnName": "bayfm おんぱち",
     "engName": "Bayfm ON8",
     "priority": 10
   },
   {
-    "jpnTeam": "Other",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/exdkondomn",
-    "showroom_id": "58139",
+    "room_id": "58139",
     "jpnName": "【EXD44】近藤正紀",
     "engName": "Feeling Couple",
     "priority": 20
   },
   {
-    "jpnTeam": "Other",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/kimi_dare",
-    "showroom_id": "75207",
+    "room_id": "75207",
     "jpnName": "AKB48の君、誰？",
     "engName": "Kimi Dare",
     "priority": 10
@@ -84,7 +67,7 @@
     "jpnTeam": "ラジオ",
     "engTeam": "Radio",
     "web_url": "https://www.showroom-live.com/allnightnippon",
-    "showroom_id": "69351",
+    "room_id": "69351",
     "jpnName": "AKB48のオールナイトニッポン",
     "engName": "AKB48 no All Night Nippon",
     "priority": 10
@@ -93,36 +76,135 @@
     "jpnTeam": "ラジオ",
     "engTeam": "Radio",
     "web_url": "https://www.showroom-live.com/pre_allnightnippon",
-    "showroom_id": "71459",
+    "room_id": "71459",
     "jpnName": "AKB48のオールナイトニッポン超直前スペシャル",
     "engName": "AKB48 no All Night Nippon Pre-Show",
     "priority": 10
   },
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
-    "web_url": "https://www.showroom-live.com/ske48_official",
-    "showroom_id": "74391",
-    "jpnName": "Official Showroom",
-    "engName": "SKE48 Official Showroom",
-    "priority": 20
-  },
-  {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/akb48_calendar",
-    "showroom_id": "85561",
+    "room_id": "85561",
     "jpnName": "AKB48グループオフィシャルカレンダー",
     "engName": "AKB48 Group Official Calendar",
     "priority": 20
   },
   {
-    "jpnTeam": "",
-    "engTeam": "Other",
+    "jpnTeam": "SP",
+    "engTeam": "SP",
     "web_url": "https://www.showroom-live.com/akb48_asuyoro",
-    "showroom_id": "92289",
+    "room_id": "92289",
     "jpnName": "AKB48の明日よろしく！",
-    "engName": "AKB48 no Ashita Yoroshiku!",
+    "engName": "AKB48 no Myonichi Yoroshiku!",
     "priority": 20
+  },
+  {
+    "jpnTeam": "SP",
+    "engTeam": "SP",
+    "web_url": "https://www.showroom-live.com/tsubuyaki_tv",
+    "room_id": "93455",
+    "jpnName": "つぶやきCMグランプリTV",
+    "engName": "HKT48 vs Keyakizaka46 Tsubuyaki CM Grand Pri",
+    "priority": 20
+  },
+  {
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnName": "AKB48ステージファイター２ バトルフェスティバル",
+    "engName": "AKB48 Stage Fighter 2 Battle Festival",
+    "room_id": "114223",
+    "web_url": "https://www.showroom-live.com/akb48battlefes",
+    "priority": 20
+  },
+  {
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnName": "ネ申テレビ『おまいら決めちゃいなよ！』",
+    "engName": "Nemousu TV Omaira Kimechainayo",
+    "room_id": "75120",
+    "web_url": "https://www.showroom-live.com/nemousu_kimechainayo",
+    "priority": 20
+  },
+  {
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnName": "豪華芸能人の24時間プライベート生配信",
+    "engName": "Goka Geinojin 24 Hour Live Stream",
+    "room_id": "88417",
+    "web_url": "https://www.showroom-live.com/showroom24h",
+    "priority": 20
+  },
+  {
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnName": "井上ヨシマサルーム",
+    "engName": "Inoue Yoshimasa Room",
+    "room_id": "71933",
+    "web_url": "https://www.showroom-live.com/yosusu",
+    "priority": 20
+  },
+  {
+    "jpnName": "猫舌SHOWROOM",
+    "engName": "Nekojita Showroom",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "priority": 20,
+    "web_url": "https://www.showroom-live.com/nekojita",
+    "room_id": "190685"
+  },
+  {
+    "jpnName": "秋元康プロデュース ガールズバンド",
+    "engName": "Girls Band Official",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "priority": 20,
+    "web_url": "https://www.showroom-live.com/yaband",
+    "room_id": "227715"
+  },
+  {
+    "jpnName": "舞台「山犬」特別配信",
+    "engName": "Yamainu Official Stream",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "priority": 20,
+    "web_url": "https://www.showroom-live.com/yamainu2019",
+    "room_id": "230381"
+  },
+  {
+    "jpnName": "AKB48メンバーとリアルタイム対戦！？『逆転オセロニア』",
+    "engName": "AKB48 to Othellonia Real Time Battle",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnGroup": "AKB48",
+    "engGroup": "AKB48",
+    "priority": 20,
+    "web_url": "https://www.showroom-live.com/othellonia_akb48",
+    "room_id": "274235"
+  },
+  {
+    "jpnName": "坂道研修生 配属発表 SHOWROOM",
+    "engName": "Sakamichi Kenshusei",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnGroup": "SP",
+    "engGroup": "SP",
+    "priority": 20,
+    "web_url": "https://www.showroom-live.com/sakamichikenshu",
+    "room_id": "273359"
   }
 ]

@@ -3,7 +3,8 @@
 
 # Current Usage
 
-Don't.
+Fork this, edit the files as desired, clone the repo, point showroom.py at
+your index using the --index switch or showroom.conf
 
 # Future Usage
 

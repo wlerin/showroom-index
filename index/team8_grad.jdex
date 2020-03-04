@@ -1,0 +1,133 @@
+[
+  {
+    "jpnGroup": "AKB48",
+    "jpnTeam": "元チーム８",
+    "engGroup": "AKB48",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/48_Nao_Ota",
+    "room_id": "61621",
+    "jpnName": "太田 奈緒",
+    "engName": "Ota Nao",
+    "priority": 46,
+    "genre_id": 103
+  },
+  {
+    "jpnGroup": "AKB48",
+    "jpnTeam": "元チーム８",
+    "engGroup": "AKB48",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/e86fa3102517",
+    "room_id": "238794",
+    "jpnName": "長 久玲奈",
+    "engName": "Cho Kurena",
+    "priority": 42,
+    "genre_id": 200
+  },
+  {
+    "jpnGroup": "AKB48",
+    "jpnTeam": "元チーム８",
+    "engGroup": "AKB48",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/09a6b3323918",
+    "room_id": "255412",
+    "jpnName": "中野 郁海",
+    "engName": "Nakano Ikumi",
+    "priority": 10,
+    "genre_id": 200
+  },
+  {
+    "jpnGroup": "AKB48",
+    "jpnTeam": "元メンバー",
+    "engGroup": "AKB48",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/gband00040",
+    "room_id": "205941",
+    "jpnName": "早坂つむぎ",
+    "engName": "Hayasaka Tsumugi",
+    "priority": 20
+  },
+  {
+    "jpnTeam": "元メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/5029f3347498",
+    "room_id": "257350",
+    "jpnName": "佐藤 栞",
+    "engName": "Sato Shiori",
+    "priority": 30,
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnTeam": "元メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/f0a6c3354300",
+    "room_id": "258298",
+    "jpnName": "谷川 聖",
+    "engName": "Tanikawa Hijiri",
+    "priority": 30,
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnTeam": "元メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/c73513384335",
+    "room_id": "260197",
+    "jpnName": "阿部 芽唯",
+    "engName": "Abe Mei",
+    "priority": 10,
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnTeam": "元メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/d5fd03390551,
+    "room_id": "260654",
+    "jpnName": "山田 菜々美",
+    "engName": "Yamada Nanami",
+    "priority": 40,
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnTeam": "元チーム8メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/ed55e1702678",
+    "priority": 30,
+    "jpnName": "谷 優里",
+    "engName": "Tani Yuri",
+    "room_id": "130692",
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnTeam": "元チーム8メンバー",
+    "engTeam": "Team 8 Graduate",
+    "web_url": "https://www.showroom-live.com/5b19e3560684",
+    "jpnName": "寺田 美咲",
+    "engName": "Terada Misaki",
+    "priority": 20,
+    "room_id": "275415",
+    "engGroup": "AKB48",
+    "jpnGroup": "AKB48",
+    "genre_id": 200
+  },
+  {
+    "jpnGroup": "AKB48",
+    "jpnTeam": "元チーム8メンバー",
+    "jpnName": "佐藤 七海",
+    "engGroup": "AKB48",
+    "engTeam": "Team 8 Graduate",
+    "engName": "Sato Nanami",
+    "priority": 50,
+    "room_id": "274512",
+    "web_url": "https://www.showroom-live.com/408f53529333",
+    "genre_id": 200
+  }
+]

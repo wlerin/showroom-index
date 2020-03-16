@@ -110,6 +110,17 @@
     "priority": 20
   },
   {
+    "jpnGroup": "STU48",
+    "engGroup": "STU48",
+    "jpnTeam": "",
+    "engTeam": "",
+    "jpnName": "STU48 トーク部屋",
+    "engName": "STU48 Talk Room",
+    "room_id": "292492",
+    "web_url": "https://www.showroom-live.com/stu48_room",
+    "priority": 20
+  },
+  {
     "jpnGroup": "AKB48 Group",
     "engGroup": "AKB48 Group",
     "jpnTeam": "",

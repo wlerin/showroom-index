@@ -1120,5 +1120,126 @@
     "priority": 20,
     "room_id": "222158",
     "web_url": "https://www.showroom-live.com/48_MIZUKI_TANABE"
+  },
+  {
+    "jpnName": "青木 莉樺",
+    "engName": "Aoki Rika",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273576",
+    "web_url": "https://www.showroom-live.com/48_RIKA_AOKI"
+  },
+  {
+    "jpnName": "五十嵐 早香",
+    "engName": "Igarashi Hayaka",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273610",
+    "web_url": "https://www.showroom-live.com/48_HAYAKA_IGARASHI"
+  },
+  {
+    "jpnName": "石塚 美月",
+    "engName": "Ishizuka Mizuki",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273182",
+    "web_url": "https://www.showroom-live.com/48_MIZUKI_ISHIZUKA"
+  },
+  {
+    "jpnName": "伊藤 実希",
+    "engName": "Ito Miki",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273185",
+    "web_url": "https://www.showroom-live.com/48_MIKI_ITO"
+  },
+  {
+    "jpnName": "加藤 結",
+    "engName": "Kato Yui",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273574",
+    "web_url": "https://www.showroom-live.com/48_YUI_KATO"
+  },
+  {
+    "jpnName": "木内 俐椛子",
+    "engName": "Kiuchi Rikako",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273569",
+    "web_url": "https://www.showroom-live.com/48_RIKAKO_KIUCHI"
+  },
+  {
+    "jpnName": "鬼頭 未来",
+    "engName": "Kito Mikuru",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273204",
+    "web_url": "https://www.showroom-live.com/48_MIKURU_KITO"
+  },
+  {
+    "jpnName": "澤田 奏音",
+    "engName": "Sawada Kanon",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "274479",
+    "web_url": "https://www.showroom-live.com/48_KANON_SAWADA"
+  },
+  {
+    "jpnName": "杉山 歩南",
+    "engName": "Sugiyama Anan",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273202",
+    "web_url": "https://www.showroom-live.com/48_ANAN_SUGIYAMA"
+  },
+  {
+    "jpnName": "西井 美桜",
+    "engName": "Nishii Mio",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273186",
+    "web_url": "https://www.showroom-live.com/48_MIO_NISHII"
+  },
+  {
+    "jpnName": "林 美澪",
+    "engName": "Hayashi Mirei",
+    "jpnTeam": "研究生",
+    "engTeam": "KKS",
+    "jpnGroup": "SKE48",
+    "engGroup": "SKE48",
+    "priority": 20,
+    "room_id": "273201",
+    "web_url": "https://www.showroom-live.com/48_MIREI_HAYASHI"
   }
 ]
